@@ -1,5 +1,17 @@
 # Interactive Housing Price Dashboard (Power BI)
 
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: S.WINCE
+
+INTERN ID: CTIS5393
+
+DOMAIN: DATA ANALYTICS
+
+DURATION: 4 WEEEKS
+
+MENTOR: NEELA SANTOSH
+
 # Overview
 
 This project focuses on building an interactive Power BI dashboard to analyze housing price trends using the House Price India dataset. The dashboard provides clear insights into pricing patterns, house distribution, and construction trends through dynamic visuals and filters.
