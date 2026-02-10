@@ -1,6 +1,6 @@
 # Interactive Housing Price Dashboard (Power BI)
 
-# Project Overview
+# Overview
 
 This project focuses on building an interactive Power BI dashboard to analyze housing price trends using the House Price India dataset. The dashboard provides clear insights into pricing patterns, house distribution, and construction trends through dynamic visuals and filters.
 
@@ -53,7 +53,7 @@ Power BI Desktop
 CSV Dataset
 
 # Dashboard Preview
-![Task 3 Dashboard Output]()
+![Task 3 Dashboard Output](https://github.com/wince0727/Interactive_Housing_Price_Dashboard/blob/main/Output.png)
 
 # Conclusion
 
