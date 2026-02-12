@@ -65,7 +65,7 @@ Power BI Desktop
 CSV Dataset
 
 # Dashboard Preview
-![Task 3 Dashboard Output](https://github.com/wince0727/Interactive_Housing_Price_Dashboard/blob/main/Output.png)
+![Task 3 Dashboard Output](![Task 3 Dashboard Output](https://raw.githubusercontent.com/wince0727/Interactive_Housing_Price_Dashboard/main/Output.png)
 
 # Conclusion
 
